@@ -27,6 +27,8 @@
   <a href="#star2-extras">Get in touch</a>
 </p>
 
+<img align="center" src="https://user-images.githubusercontent.com/43749971/89747466-458be600-da95-11ea-87f8-889fd3b6e45b.png"></img>
+
 ## :bulb: About the project
 
 - This project is about a system that seeks to connect students to teachers on an online platform.
@@ -66,7 +68,7 @@ yarn start
 
 #### Mobile
 
-First, add the address of your server (or computer) in the file `mobile / src / services / api.js`, and then run the commands:
+First, add the address of your server (or computer) in the file `mobile/src/services/api.js`, and then run the commands:
 ```bash
 cd mobile
 yarn start
