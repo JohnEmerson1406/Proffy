@@ -42,7 +42,36 @@ Technologies that I used to develop this project
 
 ## :computer: Getting started
 
-ToDo..
+#### Backend
+
+Run the migrations:
+```bash
+cd server
+knex db:migrate
+```
+
+Start the API:
+```bash
+cd server
+yarn start
+```
+
+#### Frontend
+
+To start the React's frontend, run:
+```bash
+cd web
+yarn start
+```
+
+#### Mobile
+
+First, add the address of your server (or computer) in the file `mobile / src / services / api.js`, and then run the commands:
+```bash
+cd mobile
+yarn start
+```
+Once the process is finished, the `localhost: 19002` page will automatically open in your browser. Connect your emulator, or test the app via `LAN`: download the *Expo* app from the Play Store or App Store and then scan the QR code.
 
 ## :thinking: How to contribute
 
