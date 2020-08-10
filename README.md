@@ -37,10 +37,10 @@
 
 Technologies that I used to develop this project
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [Mongoose](https://mongoosejs.com/)
-- [Heroku](https://dashboard.heroku.com/)
+- [Node.js](https://nodejs.org/en)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native)
+- [Expo](https://expo.io)
 
 ## :computer: Getting started
 
